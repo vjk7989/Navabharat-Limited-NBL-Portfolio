@@ -31,8 +31,10 @@ Independent verification passed for this increment:
 - Browser suite: `46/46` checks passed across desktop and tablet viewports.
 - Axe serious/critical accessibility scan: `0` violations.
 - Browser console errors, page errors, failed requests, and HTTP failures: `0` each.
+- Public GitHub Pages URL verified `200` with NBL title, logo alternative text, PalmWatch branding, no company switcher, and no foreign-company strings: `https://vjk7989.github.io/Navabharat-Limited-NBL-Portfolio/`.
+- Latest deploy workflow completed successfully: `https://github.com/vjk7989/Navabharat-Limited-NBL-Portfolio/actions/runs/32050158090`.
 
 ## Pending and next safe task
 
-- Pending final deployment verification at `https://vjk7989.github.io/Navabharat-Limited-NBL-Portfolio/`.
-- Next safe task after public verification: begin the TGOILFED standalone portfolio increment.
+- No NBL implementation or deployment work remains.
+- Next safe task: maintain this repo independently from the other company portfolio repos.
