@@ -1,0 +1,7 @@
+.cache/
+.tmp/
+.impeccable/
+.codebase-memory/
+.understand-anything/
+dist/
+node_modules/

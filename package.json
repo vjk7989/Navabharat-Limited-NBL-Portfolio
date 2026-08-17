@@ -1,0 +1,10 @@
+{
+  "name": "navabharat-limited-nbl-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone Navabharat Limited / NBL oil palm portfolio demonstration for PalmWatch.",
+  "scripts": {
+    "test": "node tests/static-check.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
